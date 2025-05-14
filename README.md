@@ -45,14 +45,15 @@ Welcome to my JavaScript learning journey! This repository documents my progress
 
 ## 🗂️ Folder Structure
 
-"""/javascript-learning
+```/javascript-learning
 │
 ├── /basics/ # Variables, loops, arrays, etc.
 ├── /dom/ # DOM manipulation and events
 ├── /async/ # Promises, fetch, APIs
 ├── /projects/ # Mini projects
 ├── README.md # This file
-└── LICENSE # Optional license"""
+└── LICENSE # Optional license
+```
 
 
 ---
