@@ -76,3 +76,11 @@ const merged = { ...obj1, ...obj2 };
 console.log(merged); // { a: 1, b: 2 }
 
 */
+
+function calculatecartPriceare(...num2){
+
+    return num2.reduce((acc , curr) => acc+curr ,0); //We use prototype function reduce
+
+}
+
+console.log(calculatecartPriceare(100,2000,5000,7000,90000,890000))
