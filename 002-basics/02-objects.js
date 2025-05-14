@@ -72,4 +72,4 @@ console.log(Object.keys(tinderuser))
 
 //Sometime we have to know is key present in that object or Not present
 
-console.log(tinderuser.hasOwnProperty("id")) // very useful
+console.log(tinderuser.hasOwnProperty("id")) // very useful when data is comming from DataBase
