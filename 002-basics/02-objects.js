@@ -63,3 +63,13 @@ console.log(merged)
 const newobj = {...obj1,...obj2} //Most Widely used 
 
 console.log(newobj)
+
+
+//When we need all the keys of the object
+
+console.log(Object.keys(tinderuser)) 
+//It will return values in form of array we can say that we can loop over it and do multiple thing over it
+
+//Sometime we have to know is key present in that object or Not present
+
+console.log(tinderuser.hasOwnProperty("id")) // very useful
