@@ -1,4 +1,4 @@
-# 🧠 JavaScript Learning Journey
+#  JavaScript Learning Journey
 
 Welcome to my JavaScript learning journey! This repository documents my progress as I study JavaScript—covering fundamentals, advanced topics, and hands-on projects.
 
