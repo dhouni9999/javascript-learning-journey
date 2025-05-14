@@ -84,3 +84,4 @@ function calculatecartPriceare(...num2){
 }
 
 console.log(calculatecartPriceare(100,2000,5000,7000,90000,890000))
+
