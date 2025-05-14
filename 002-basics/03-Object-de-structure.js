@@ -44,4 +44,4 @@ JSON stands for JavaScript Object Notation,
 and it is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate.
 It is primarily used to transmit data between a server and a web application as text.
 */
-/*Jason Comes in key value pair {"Keys":"value"} both keys and value are in String  */
+/*Jason Comes in key value pair {"Keys":"value"} both keys and value are in String Jason api we use tools like jason formatter to understand api and type of data mostly we get data in array */
