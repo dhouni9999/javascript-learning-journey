@@ -46,7 +46,8 @@ function addone(num){
     return num+1
 }
 
-//console.log(addtwo(6)) // We cannot do this when we have declared the function in expression ()
+//console.log(addtwo(6)) // We cannot do this when we have declared the function in expression () => ReferenceError: Cannot access 'addtwo' before initialization (Thrown)
+
 
 const addtwo = function(num){   //Function expression
     
