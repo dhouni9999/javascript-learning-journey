@@ -16,4 +16,7 @@ To run initialization code without affecting the rest of the codebase. */
 /* 
    IIFE is defined using two sets of parentheses:
    (function expression)(function invocation)
+   The semicolon (;) before the IIFE is important 
+   when it follows another statement, to prevent 
+   issues like unexpected token errors.
 */
