@@ -20,3 +20,12 @@ To run initialization code without affecting the rest of the codebase. */
    when it follows another statement, to prevent 
    issues like unexpected token errors.
 */
+
+//(function expression)(function invocation)
+
+//use of arrow function
+
+((name)=> {     //We are using Arrow Function and 'name' is a parameter or placeholder
+    console.log(`My name is ${name}`)
+})('Tarun'); //we have passed the argument as 'Tarun'
+
