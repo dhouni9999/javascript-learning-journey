@@ -12,7 +12,7 @@ To run initialization code without affecting the rest of the codebase. */
     let privateVariable = 'I am fast and hidden from the outer world. I will get executed privately.';
     console.log(privateVariable);
 })();
-
+ //Named IIFE
 /* 
    IIFE is defined using two sets of parentheses:
    (function expression)(function invocation)
@@ -28,4 +28,4 @@ To run initialization code without affecting the rest of the codebase. */
 ((name)=> {     //We are using Arrow Function and 'name' is a parameter or placeholder
     console.log(`My name is ${name}`)
 })('Tarun'); //we have passed the argument as 'Tarun'
-
+//Unnamed IIFE
